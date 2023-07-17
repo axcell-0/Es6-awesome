@@ -5,6 +5,5 @@ import DateDisplay from './modules/date.js';
 
 new Library().displayBooks();
 new Form();
-new Navigation(); 
-new DateDisplay(); 
-
+new Navigation();
+new DateDisplay();
